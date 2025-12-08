@@ -29,17 +29,14 @@ Ce qui est important pour eux c'est d'aimer les énigmes et d'être investi dans
 - Des pages web a décrypté
 
 - Générateurs de cryptage (Caesar, Vigenère, spectrogrammes)
--
+
 - Pour la fin des coordonner GPS pour aller trouver un objet ( un coussin péteur ou un truc plate du Dollarama)
 
 ### **En quoi le concept répond aux attentes du public cible ?**
 - Le concept répond au public cible car il est remplie de mystère et d'énigme, mon public cible sont des gens qui aime rechercher et comprendre des choses. Dans ce cas, les gens vont vouloirs comprendre ce que veut dire l'élève du passer coincé dans les limbes. J'utilise l’environnement réel du cégep comme terrain de jeu
 
 
-écrire et faire arbore
 
--maquette et tout arborescence 
-qr code qui mene a un youtube et un insta, des messages a décoder qui mène a un 
 
 ### description visuelle (moodboard)
 
