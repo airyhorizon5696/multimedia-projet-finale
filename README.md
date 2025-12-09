@@ -37,7 +37,7 @@ Ce qui est important pour eux c'est d'aimer les énigmes et d'être investi dans
 - Le concept répond au public cible car il est remplie de mystère et d'énigme, mon public cible sont des gens qui aime rechercher et comprendre des choses. Dans ce cas, les gens vont vouloirs comprendre ce que veut dire l'élève du passer coincé dans les limbes. J'utilise l’environnement réel du cégep comme terrain de jeu
 
 # Les taches principales 
- 1.  ### Prépoduction: 
+ 1.  ### Préproduction: 
  - Recherche et écriture de l’histoire principale
  - Création du concept des énigmes
  - Planification logistique
@@ -60,9 +60,11 @@ Ce qui est important pour eux c'est d'aimer les énigmes et d'être investi dans
 
 ### Description visuelle (moodboard)
 
-### Conclusion
-- Ce projet est innovant parce qu’il transforme le cégep Montmorency en un terrain de jeu narratif où le virtuel et le réel se croisent. L’histoire d’un étudiant coincé dans les limbes numériques s’intègre directement à l’environnement physique grâce à des QR codes, des vidéos glitchées, des énigmes cryptées et une progression non linéaire.  
-L’expérience mélange **technologie**, **mystère**, **interaction sociale**, **cryptographie**, et **exploration du campus**, ce qui en fait un format original et immersif rarement utilisé dans un contexte scolaire.
+# Conclusion
+
+- Ce projet est innovant parce qu’il transforme le cégep Montmorency en un espace narratif interactif où QR codes, vidéos énigmatiques et énigmes cryptées plongent les joueurs dans une histoire immersive.  
+Il se distingue des autres projets en combinant réel et numérique, en utilisant réellement les lieux du cégep, et en misant sur la collaboration entre les joueurs pour avancer dans le mystère.  
+Il attire l’intérêt des investisseurs Kickstarter grâce à son faible coût, son fort potentiel viral sur les réseaux sociaux et sa capacité à être reproduit dans d’autres écoles ou événements. C’est un concept engageant, original et facilement commercialisable.
 
 # Maquette 
 https://drive.google.com/file/d/1iAWghvGza0apYLXN5nwbvTEHVDGtzdzH/view?usp=drive_link
