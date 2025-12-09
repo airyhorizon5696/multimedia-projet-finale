@@ -12,7 +12,8 @@ Les élèves de Montmorency, les gens de 16 a 20 ans. les gens qui sont souvent 
 - **Qu'est-ce qui est important pour eux?**
 Ce qui est important pour eux c'est d'aimer les énigmes et d'être investi dans l'énigme et le mystère de l'arg pour que l'arg continue a évoluer et puisse se rendre loin 
 -**Le problème ou l’opportunité que votre projet vise à résoudre**
-- Montrer que 
+- Montrer qu'il faut parfois s'entraider pour aller au bout de quelque chose, car dans mon arg les gens vont devoirs mettre les informations qu'il on obtenue ensemble car ça ne serait pas toujours aussi évidents de tout résoudre seul.
+
 ## Présentation du Concept 
 ### **Les éléments importants**
 - Un élèves qui na jamais réussis sa technique et qui est maintenant coincé dans les limbes de l'école a cacher un qr code dans l'école font laisser passer des petits messages et des vidéos sur les écrans des étudiants de montmorency
@@ -35,11 +36,33 @@ Ce qui est important pour eux c'est d'aimer les énigmes et d'être investi dans
 ### **En quoi le concept répond aux attentes du public cible ?**
 - Le concept répond au public cible car il est remplie de mystère et d'énigme, mon public cible sont des gens qui aime rechercher et comprendre des choses. Dans ce cas, les gens vont vouloirs comprendre ce que veut dire l'élève du passer coincé dans les limbes. J'utilise l’environnement réel du cégep comme terrain de jeu
 
+# Les taches principales 
+ 1.  ### Prépoduction: 
+ - Recherche et écriture de l’histoire principale
+ - Création du concept des énigmes
+ - Planification logistique
+ - Tester des énigmes (prototype rapide) 
+ 2. ### Production
+ - Création des vidéos de l'élève disparu 
+ - Fabrication des énigmes finales
+ - Création des supports visuels et sonores
+ - Programmation / intégration (mini site web etc...)
+ 3. ### Postproduction
+ - Montage final des vidéos
+ - Faire tester le rendu finale a des gens 
+ - Optimisation du site / plateformes
+ 4. ### Opération
+ - Lancement 
+ - Gestion en temps réelle ( donner les indices au bon moment, poster des indices sur les réseaux)
+ - Les feedbacks 
+ -  Animer la communauté
 
 
-
-### description visuelle (moodboard)
+### Description visuelle (moodboard)
 
 ### Conclusion
 - Ce projet est innovant parce qu’il transforme le cégep Montmorency en un terrain de jeu narratif où le virtuel et le réel se croisent. L’histoire d’un étudiant coincé dans les limbes numériques s’intègre directement à l’environnement physique grâce à des QR codes, des vidéos glitchées, des énigmes cryptées et une progression non linéaire.  
 L’expérience mélange **technologie**, **mystère**, **interaction sociale**, **cryptographie**, et **exploration du campus**, ce qui en fait un format original et immersif rarement utilisé dans un contexte scolaire.
+
+# Maquette 
+https://drive.google.com/file/d/1iAWghvGza0apYLXN5nwbvTEHVDGtzdzH/view?usp=drive_link
