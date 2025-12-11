@@ -70,8 +70,13 @@ Ce qui est important pour eux c'est d'aimer les énigmes et d'être investi dans
 - ![Mon image](mon-image.jpg)
 
 - ### Palette de couleurs 
-- noir 
-- gris blanc 
+- <p style="color:#0A0A0C; background-color:#1A1A1F; padding:5px;">#0A0A0C - Noir profond</p>
+- <p style="color:#1A1A1F; background-color:#0A0A0C; padding:5px;">#1A1A1F - Gris anthracite</p>
+- <p style="color:#B54CFF; background-color:#0A0A0C; padding:5px;">#B54CFF - Violet néon</p>
+- <p style="color:#D8A9FF; background-color:#0A0A0C; padding:5px;">#D8A9FF - Violet pâle / luminescent</p>
+- <p style="color:#59E7FF; background-color:#0A0A0C; padding:5px;">#59E7FF - Cyan glitch</p>
+- <p style="color:#FF4040; background-color:#0A0A0C; padding:5px;">#FF4040 - Rouge d’alerte</p>
+
 - ### ensemble typographies
 - <img width="1182" height="1241" alt="Capture d’écran 2025-12-10 184240" src="https://github.com/user-attachments/assets/38f628fd-51c7-4ab8-bc84-372be29a44d1" />
 - <img width="1174" height="994" alt="Capture d’écran 2025-12-10 184158" src="https://github.com/user-attachments/assets/4f692a86-5d4e-4302-95cb-8e5f6a6f1d53" />
