@@ -27,6 +27,7 @@ Ce qui est important pour eux c'est d'aimer les énigmes et d'être investi dans
 -
 ### **les choix technologique**
 - Des QR codes cacher dans l'établissement qui mène a des comptes ytb insta tiktok, etc... 
+![Uploading DSC00219.JPG…]()
 
 - Des pages web a décrypté
 
