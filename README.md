@@ -61,8 +61,10 @@ Ce qui est important pour eux c'est d'aimer les énigmes et d'être investi dans
 
 # Description visuelle (moodboard)
 - ### Série d'image:
-- ![Mon image](mon-image.jpg)
-- ![Mon image](mon-image.jpg)
+- <img width="2559" height="1309" alt="Capture d’écran 2025-12-10 183121" src="https://github.com/user-attachments/assets/00b6867e-028a-4a17-8c5e-66d85fcc1333" />
+- <img width="2553" height="1306" alt="Capture d’écran 2025-12-10 183144" src="https://github.com/user-attachments/assets/660d4d0c-9161-4182-b703-488428d4f243" />
+
+
 - ![Mon image](mon-image.jpg)
 - ![Mon image](mon-image.jpg)
 - ![Mon image](mon-image.jpg)
@@ -71,6 +73,9 @@ Ce qui est important pour eux c'est d'aimer les énigmes et d'être investi dans
 - noir 
 - gris blanc 
 - ### ensemble typographies
+- <img width="1182" height="1241" alt="Capture d’écran 2025-12-10 184240" src="https://github.com/user-attachments/assets/38f628fd-51c7-4ab8-bc84-372be29a44d1" />
+- <img width="1174" height="994" alt="Capture d’écran 2025-12-10 184158" src="https://github.com/user-attachments/assets/4f692a86-5d4e-4302-95cb-8e5f6a6f1d53" />
+
 
 # Conclusion
 
