@@ -1,3 +1,4 @@
+
 # Multimédia - Projet finale 
 ## type de projet
 ARG - interaction numérique 
@@ -58,7 +59,18 @@ Ce qui est important pour eux c'est d'aimer les énigmes et d'être investi dans
  -  Animer la communauté
 
 
-### Description visuelle (moodboard)
+# Description visuelle (moodboard)
+- ### Série d'image:
+- ![Mon image](mon-image.jpg)
+- ![Mon image](mon-image.jpg)
+- ![Mon image](mon-image.jpg)
+- ![Mon image](mon-image.jpg)
+- ![Mon image](mon-image.jpg)
+
+- ### Palette de couleurs 
+- noir 
+- gris blanc 
+- ### ensemble typographies
 
 # Conclusion
 
