@@ -64,7 +64,8 @@ Ce qui est important pour eux c'est d'aimer les énigmes et d'être investi dans
 - <img width="2559" height="1309" alt="Capture d’écran 2025-12-10 183121" src="https://github.com/user-attachments/assets/00b6867e-028a-4a17-8c5e-66d85fcc1333" />
 - <img width="2553" height="1306" alt="Capture d’écran 2025-12-10 183144" src="https://github.com/user-attachments/assets/1a59b4a0-907c-4172-83cc-82ae4986e2da" />
 - ![carolin-thiergart-Q0GCvjG1ioA-unsplash](https://github.com/user-attachments/assets/52f6bc17-d8f3-4719-adab-d6b9d59bc5fc)
-
+- ![brett-jordan--qUp3bejuzs-unsplash](https://github.com/user-attachments/assets/17876a31-1868-4a87-9f46-0fe788926181)
+- ![leon-bublitz-uDTzfsGJihw-unsplash](https://github.com/user-attachments/assets/2d8b4530-aa74-4844-aca6-2aba47c594cf)
 
 
 - ![Mon image](mon-image.jpg)
