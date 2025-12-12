@@ -74,7 +74,6 @@ Ce qui est important pour eux c'est d'aimer les énigmes et d'être investi dans
 - #D8A9FF - Violet pâle / luminescent</p>
 - #59E7FF - Cyan glitch</p>
 - #FF4040 - Rouge d’alerte</p>
-![1de59cf4-a368-4e96-9fb7-ef3cabd08bf5](https://github.com/user-attachments/assets/04fd9c94-e56e-4c2f-89b4-8cbc63ba5d6d)
 
 - ### ensemble typographies
 <img width="1734" height="234" alt="Capture d’écran 2025-12-12 155620" src="https://github.com/user-attachments/assets/cc4aeb94-da57-45a8-8ec2-4126df14c3ff" />
