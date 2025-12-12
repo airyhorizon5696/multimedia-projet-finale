@@ -88,4 +88,6 @@ Il se distingue des autres projets en combinant réel et numérique, en utilisan
 Il attire l’intérêt des investisseurs Kickstarter grâce à son faible coût, son fort potentiel viral sur les réseaux sociaux et sa capacité à être reproduit dans d’autres écoles ou événements. C’est un concept engageant, original et facilement commercialisable.
 
 # Maquette 
-https://drive.google.com/file/d/1iAWghvGza0apYLXN5nwbvTEHVDGtzdzH/view?usp=drive_link
+<img width="2122" height="1593" alt="Capture d’écran 2025-12-12 172017" src="https://github.com/user-attachments/assets/620f5fb7-2ba2-46e9-8e4f-ee7187803243" />
+<img width="2248" height="1498" alt="Capture d’écran 2025-12-12 172027" src="https://github.com/user-attachments/assets/d5266c95-5a1a-43f4-9b82-9bed14e9f7b2" />
+
