@@ -67,11 +67,6 @@ Ce qui est important pour eux c'est d'aimer les énigmes et d'être investi dans
 - ![brett-jordan--qUp3bejuzs-unsplash](https://github.com/user-attachments/assets/17876a31-1868-4a87-9f46-0fe788926181)
 - ![leon-bublitz-uDTzfsGJihw-unsplash](https://github.com/user-attachments/assets/2d8b4530-aa74-4844-aca6-2aba47c594cf)
 
-
-- ![Mon image](mon-image.jpg)
-- ![Mon image](mon-image.jpg)
-- ![Mon image](mon-image.jpg)
-
 - ### Palette de couleurs 
 - #0A0A0C - Noir profond</p>
 - #1A1A1F - Gris anthracite</p>
