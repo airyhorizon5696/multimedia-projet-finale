@@ -76,9 +76,9 @@ Ce qui est important pour eux c'est d'aimer les énigmes et d'être investi dans
 - #FF4040 - Rouge d’alerte</p>
 
 - ### ensemble typographies
-- <img width="1182" height="1241" alt="Capture d’écran 2025-12-10 184240" src="https://github.com/user-attachments/assets/38f628fd-51c7-4ab8-bc84-372be29a44d1" />
-- <img width="1174" height="994" alt="Capture d’écran 2025-12-10 184158" src="https://github.com/user-attachments/assets/4f692a86-5d4e-4302-95cb-8e5f6a6f1d53" />
-- <img width="1266" height="1300" alt="Capture d’écran 2025-12-10 203838" src="https://github.com/user-attachments/assets/51a35959-0962-4519-a967-90a2ccad3f22" />
+<img width="1734" height="234" alt="Capture d’écran 2025-12-12 155620" src="https://github.com/user-attachments/assets/cc4aeb94-da57-45a8-8ec2-4126df14c3ff" />
+<img width="1175" height="225" alt="Capture d’écran 2025-12-12 163055" src="https://github.com/user-attachments/assets/da0e83ee-6352-4fc7-ad8b-ad11ba6b8805" />
+<img width="523" height="161" alt="Capture d’écran 2025-12-12 154948" src="https://github.com/user-attachments/assets/3778d8c5-7bdd-4326-82b8-3d7ae0f1d992" />
 
 
 # Conclusion
@@ -89,4 +89,3 @@ Il attire l’intérêt des investisseurs Kickstarter grâce à son faible coût
 
 # Maquette 
 https://drive.google.com/file/d/1iAWghvGza0apYLXN5nwbvTEHVDGtzdzH/view?usp=drive_link
-[Uploading index.html…]()
