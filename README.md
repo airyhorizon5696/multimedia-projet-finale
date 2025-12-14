@@ -5,7 +5,7 @@ ARG - interaction numérique
 ## Présentation du projet
 
 ### Phrase de choc
-- Un étudiant disparu, coincé dans les limbes numériques du cégep, tente de communiquer en piratant les écrans et en laissant des QR codes dans l’école. Les joueurs doivent décrypter ses messages cryptés, suivre ses indices et collaborer pour l’aider à sortir — ou comprendre pourquoi il est piégé.
+- Un étudiant disparu, coincé quelque part dans le cégep, l tente de communiquer en piratant les écrans et en laissant des QR codes dans l’école. Les joueurs doivent décrypter ses messages , suivre ses indices et collaborer pour l’aider à sortir de la ou il est pièger — ou comprendre pourquoi il est piégé.
 ---
 ### Besoin
 - **Public cible:**
