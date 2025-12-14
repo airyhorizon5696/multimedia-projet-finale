@@ -1,11 +1,10 @@
-
 # Multimédia - Projet finale 
 ## type de projet
 ARG - interaction numérique 
 ## Présentation du projet
 
 ### Phrase de choc
-- Un étudiant disparu, coincé quelque part dans le cégep, l tente de communiquer en piratant les écrans et en laissant des QR codes dans l’école. Les joueurs doivent décrypter ses messages , suivre ses indices et collaborer pour l’aider à sortir de la ou il est pièger — ou comprendre pourquoi il est piégé.
+- Un étudiant disparu, coincé quelque part dans le cégep, il tente de communiquer en piratant les écrans et en laissant des QR codes dans l’école. Les joueurs doivent décrypter ses messages , suivre ses indices et collaborer pour l’aider à sortir de la ou il est pièger — ou comprendre pourquoi il est piégé.
 ---
 ### Besoin
 - **Public cible:**
